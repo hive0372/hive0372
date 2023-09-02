@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anushka Bandyopadhyay</h1>
-<h3 align="center">A passionate data analysis enthusiast from India</h3>
+<h3 align="center">A passionate data analysis and data science enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
-- 🌱 I’m currently learning **data analysis**
+- 🌱 I’m currently learning **data analysis and data science**
 
 - 👨‍💻 All of my projects are available at [https://hive0372.github.io/portfolio-website/](https://hive0372.github.io/portfolio-website/)
 
-- 💬 Ask me about **Machine Learning, Data Analytics**
+- 💬 Ask me about **Machine Learning, Data Analytics, Python, MySQL**
 
 - 📫 How to reach me **anushkab0602@gmail.com**
 
