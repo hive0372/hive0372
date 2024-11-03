@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Bandyopadhyay</h1>
 <h3 align="center">A passionate data analysis and data science enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
-- 🌱 I’m currently learning **data analysis,data science,web developement and python **
+- 🌱 I’m currently learning **data analysis,data science,web developement(backend) and python **
 
 - 👨‍💻 All of my projects are available at Github (https://github.com/hive0372?tab=repositories)
 
