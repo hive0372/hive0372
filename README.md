@@ -11,9 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anushka-bandyopadhyay-a64567224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushka-bandyopadhyay-a64567224/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/as8543" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="as8543" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anushkab0602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anushkab0602" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anushka-bandyopadhyay-a64567224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushka-bandyopadhyay-a64567224/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/as8543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anushkab0602" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/as85ls7h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="as85ls7h" height="30" width="40" /></a>
 </p>
 
