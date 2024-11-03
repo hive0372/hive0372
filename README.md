@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 - 🌱 I’m currently learning **data analysis,data science,web developement and python **
 
-- 👨‍💻 All of my projects are available at [https://hive0372.github.io/portfolio-website/](https://hive0372.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://hive0372.github.io/portfolio-website/](https://github.com/hive0372?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, Data Analytics, Python, MySQL,C++**
 
